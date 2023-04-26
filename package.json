@@ -1,0 +1,27 @@
+{
+  "name": "bakery-master",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Satoshi2801/Bakerymaster.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Satoshi2801/Bakerymaster/issues"
+  },
+  "homepage": "https://github.com/Satoshi2801/Bakerymaster#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "http": "^0.0.1-security",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.22"
+  }
+}
